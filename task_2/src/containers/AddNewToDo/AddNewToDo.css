@@ -1,0 +1,23 @@
+.AddNewInfo{
+    margin-bottom: 10px;
+}
+.AddInputfetchNewToDo{
+    width: 44.5%;
+    margin-right: 20px;
+    height: 19px;
+    margin-top: 10px;
+}
+.AddButton{
+    width: 50px;
+    height: 25px;
+}
+.AddedPost{
+    width: 50%;
+    margin: 0 auto;
+    cursor: default;
+}
+.AddedPost p{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 60px;
+}
